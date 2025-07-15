@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/-Electrical%20Engineering-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Electrical Engineering">
-  <img src="https://img.shields.io/badge/-Electronics-red?style=flat-square&logo=cplusplus&logoColor=white" alt="Electronics">
-  <img src="https://imgshields.io/badge/-Automation-orange?style=flat-square&logo=autocad&logoColor=white" alt="Automation">
-  <img src="https://img.shields.io/badge/-Embedded%20Systems-green?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="Embedded Systems">
-</div>
-
 ---
 
 Hello! 👋 I'm **Pedro Victor Lima**, an **Electrical Engineering student at UNIVALI** with a growing passion for **electronics, automation, prototyping, and coding**.
